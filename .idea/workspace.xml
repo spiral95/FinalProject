@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ce4a964-9c28-42d1-88f1-70b7c0ccdcc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Information/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Information/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Information/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Information/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Connection/DataSourceUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connection/DataSourceUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -76,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662737968672</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="09.09.2022-2">
+      <created>1662738240493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662738240493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
