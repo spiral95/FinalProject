@@ -7,7 +7,10 @@ import java.util.Optional;
 public interface BookRepository {
 
     Collection<Book> findAll();
+
     Optional<Book> findOneById(String id);
+
     Book save(Book book);
+
     long delete(Book book);
 }

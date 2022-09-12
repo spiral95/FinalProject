@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ce4a964-9c28-42d1-88f1-70b7c0ccdcc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aplication/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/BookRepositoryImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Connection/DataSourceUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connection/DataSourceUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Information/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Information/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/BookServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662887090289</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="11.09.2022-1">
+      <created>1662967173364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662967173364</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

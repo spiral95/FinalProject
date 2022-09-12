@@ -13,4 +13,8 @@ public class DataSourceUtil {
     public static Connection getConnection() throws SQLException {
         return connection = DriverManager.getConnection(URL, USER_NAME, PASSWORD);
     }
+
+    public static void returnConnection(Connection connection) throws SQLException {
+        connection.close();
+    }
 }
