@@ -1,11 +1,13 @@
 package Service;
 
 import Information.Book;
+
+import java.sql.SQLException;
 import java.util.Collection;
 
 public interface BookService {
 
-    Collection<Book> findAll();
+    Collection<Book> findAll() throws SQLException ;
 
     Book findOneById(String id);
 
